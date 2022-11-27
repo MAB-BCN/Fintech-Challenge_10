@@ -14,4 +14,4 @@ After creating a new dataframe with the new PCA data, we then applied the same m
 https://github.com/MAB-BCN/Fintech-Challenge_10/blob/main/Elbow_curve_pcadata.PNG
 https://github.com/MAB-BCN/Fintech-Challenge_10/blob/main/Scatter_plot_pcadata.PNG
 
-After visually analyzing the cluster analysis results, we determined that the impact of using fewer features to cluster the data using K-Means results in clusters being more clearly defined, which is helpful as a starting point to analyze each cluster
+After visually analyzing the cluster analysis results, we determined that the impact of using fewer features to cluster the data using K-Means results in clusters being less clearly defined.
